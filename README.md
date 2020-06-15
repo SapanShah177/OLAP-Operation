@@ -7,3 +7,5 @@ OLAP Operations:
 2.	Drill-down
 3.	Slice and dice
 4.	Pivot (rotate)
+
+And also example of Grouping sets.
